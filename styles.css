@@ -5,6 +5,9 @@ html{
 header {
     background-color: #1f2937;
     color:white;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    
 }
 
 .h-logo{
@@ -12,7 +15,8 @@ header {
     margin: 15px;
     padding: 15px;
     font-size: 24px;
-    color: #f9faf8
+    color: #f9faf8;
+    padding-right: 150px;
 }
  
 .h-link{
@@ -21,16 +25,15 @@ header {
     margin: 15px;
     padding: 15px;
     gap:15px;
-    font-size: 18px;
+    font-size: 16px;
     color: #e5e7eb;
 }
 
 .h-box {
     display:flex;
     justify-content: space-around;
-    
 }
- h1{
+ h1 {
      width: 400px;
      margin-bottom:-15px;
      font-size: 48px;
@@ -62,8 +65,10 @@ header {
     align-self: center;
     background-color: grey;
     margin: 50px;
-    padding: 100px;
+    padding: 1px;
     text-align: center;
+    width: 400px;
+    height: 250px;
 }
 
 .hero-text {
@@ -76,4 +81,110 @@ header {
 .hero-box{
     display: flex;
     justify-content: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    
+}
+
+
+.info-img{
+    border: 3px;
+    border-color: #3882f6;
+    margin: 1px;
+    padding: 0px;
+    height: 180px;
+    width:160px;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.info-text{
+    width:150px;
+    font-size: 14px;
+    color: grey;
+    margin-top: 15px;
+
+}
+
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.info-box{
+    display: flex;
+    justify-content: center;
+    margin:50px;
+    gap:40px;
+}
+
+.body-info{
+    padding-bottom: 20px ;
+}
+
+.qoute{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.qoutee{
+    text-align: right;
+}
+
+.qoute-box{
+    background-color: #e5e7eb;
+    margin-top: 25px;
+    padding: 100px 250px 100px 250px;
+}
+
+.sign-box{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+    padding-top: 30px ;
+    padding-bottom: 30px;
+    background-color: #3882f6;
+    margin: 100px 200px;
+    border-radius: 5px;
+}
+
+.text-flex{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+.sign-header{
+    color: #f9faf8;
+    font-weight: 700;
+    font-size: large;
+}
+
+.sign-text{
+    color: whitesmoke;
+    font-weight: 100;
+    font-size: small;
+}
+
+.b2{
+    background-color: #3882f6;
+    color: #e5e7eb;
+    font-size: small;
+    border-style: solid;
+    padding: 5px 25px 5px 25px;
+    border-radius: 5px;
+
 }
