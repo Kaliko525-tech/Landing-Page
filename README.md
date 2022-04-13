@@ -31,3 +31,13 @@ pink-ghost by aldi sigun on unsplash
 rainbow by salais brew on unsplash
 
 meta-logo by dima solomin on unsplash
+
+13/4/22
+
+finished the project and learned quite a lot along the way,i never realised how much I actually knew from the course and remembered but it was alot, i had very little to google and I refrained from looking at other peoples project. I unfortunatley didnt make it my own  but just copied the refrence and while I wasn't looking to get pixel for pixel placement i am happy with my clone.
+
+I had some struggles trying to get things into the places I wanted and eventually got it right,i feel like my code is quite messy and I may have gone the long route too achieve my goals, I hope to learn better, more effecient ways to achieve these goals in the future.
+
+This project wasn't as hard as i thought it was going to be and I definitley feel I could have done it faster if I put more consistent time into it.
+
+I wanted to take it a step further and actually take the time to make this project my own and not just a clone of the refrence but i've lost a lot of time as it is and wish to move forward in the course. Perhaps I will come back after some progression to add new things and truelly make it my own.
